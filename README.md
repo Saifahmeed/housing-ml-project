@@ -96,7 +96,7 @@ It demonstrates the full end-to-end data science workflow: **exploration → cle
 
 - `Learning_Process.py` contains **all steps, experiments, and debugging notes**  
 - `main.py` is a **clean, production-ready pipeline**  
-- `Reports/` stores metrics in CSV/Markdown for easy comparison  
+- `Reports/` stores metrics in CSV for easy comparison  
 - `images/` stores plots for EDA, diagnostics, and model evaluation  
 
 ---
